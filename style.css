@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: wheat;
+    font-size: 62.5%;
+}
+
+
+
+@keyframes couleur {
+    0% {
+        background: wheat;
+        color: black;
+    }
+
+    100% {
+        background: black;
+        color: wheat;
+    }
+}
