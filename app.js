@@ -24,5 +24,6 @@ paragrapheDeux.style.animationDuration = "6s";
 paragrapheModif.innerHTML = "Un petit Chat";
 
 petitSpan.style.background = "grey";
+petitSpan.style.display = "block"
 
 liens.innerText = "Je suis";
